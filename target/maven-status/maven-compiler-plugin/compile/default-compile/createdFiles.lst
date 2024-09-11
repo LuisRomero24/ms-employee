@@ -1,0 +1,6 @@
+com\bootcamp\msemployee\controller\EmployeeServiceImpl.class
+com\bootcamp\msemployee\repo\IEmployeeRepository.class
+com\bootcamp\msemployee\MsEmployeeApplication.class
+com\bootcamp\msemployee\controller\EmployeeService.class
+com\bootcamp\msemployee\controller\EmployeeController.class
+com\bootcamp\msemployee\entity\MEmployee.class
